@@ -1,4 +1,4 @@
-main.java
+(main.java)
 
 
 package resumegenerate;
@@ -16,7 +16,7 @@ public class Main {
 }
 -----------------------------------------------
 
-Frame.java
+(Frame.java)
 
 package resumegenerate;
 import com.itextpdf.text.Paragraph;
